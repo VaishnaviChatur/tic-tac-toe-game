@@ -1,0 +1,22 @@
+.info {
+    width: 30vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    font-weight: bolder;
+}
+
+.player {
+    /* border: 2px solid; */
+    box-shadow: 4px 4px 8px 8px rgb(55, 79, 87);
+    padding: .5rem 0;
+    display: flex;
+    font-size: 1.5rem;
+    justify-content: center;
+    align-items: center;
+    width: 10vw;
+    height: 10vh;
+    margin: auto;
+    background-color: rgb(58, 121, 123);
+}
